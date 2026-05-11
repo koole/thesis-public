@@ -1,8 +1,5 @@
-# Thesis submission
-
-Master's thesis **Evaluating Uncertainty Quantification Techniques in Deep
-Learning for Skin Lesion Classification** by Leon Koole, University of
-Groningen.
+# Master's thesis: *Evaluating Uncertainty Quantification Techniques in Deep Learning for Skin Lesion Classification*
+By Leon Koole, University of Groningen
 
 ## Quick links
 
