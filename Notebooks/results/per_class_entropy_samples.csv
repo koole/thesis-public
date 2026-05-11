@@ -1,0 +1,61 @@
+isic_id,diagnosis_2,band,entropy_h2,predicted_class_raw,correct_h2,diagnosis_confirm_type,image_path
+ISIC_4342416,Benign,high,1.520515383851083,malignant_epidermal,False,histopathology,../Datasets/images/ISIC_4342416.jpg
+ISIC_0012399,Benign,high,1.475017316000533,benign,True,histopathology,../Datasets/images/ISIC_0012399.jpg
+ISIC_0063734,Benign,high,1.3775170213730543,malignant_nonepidermal,False,histopathology,../Datasets/images/ISIC_0063734.jpg
+ISIC_3406437,Benign,high,1.372511935480411,melanoma,False,histopathology,../Datasets/images/ISIC_3406437.jpg
+ISIC_0068479,Benign,high,1.3363544310870117,benign,True,histopathology,../Datasets/images/ISIC_0068479.jpg
+ISIC_0014297,Benign,high,1.3262580141983478,benign,True,histopathology,../Datasets/images/ISIC_0014297.jpg
+ISIC_0008799,Benign,low,1.9941237090504302e-10,benign,True,single image expert consensus,../Datasets/images/ISIC_0008799.jpg
+ISIC_0006983,Benign,low,1.6713009037520288e-10,benign,True,single image expert consensus,../Datasets/images/ISIC_0006983.jpg
+ISIC_0001996,Benign,low,1.3553015022265103e-10,benign,True,single image expert consensus,../Datasets/images/ISIC_0001996.jpg
+ISIC_0007191,Benign,low,1.257330780975626e-10,benign,True,single image expert consensus,../Datasets/images/ISIC_0007191.jpg
+ISIC_0009298,Benign,low,6.000799749585268e-11,benign,True,single image expert consensus,../Datasets/images/ISIC_0009298.jpg
+ISIC_0008747,Benign,low,1.063095760381493e-11,benign,True,single image expert consensus,../Datasets/images/ISIC_0008747.jpg
+ISIC_9017727,Malignant_Epidermal,high,1.38128310697462,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_9017727.jpg
+ISIC_6824249,Malignant_Epidermal,high,1.3590859448326684,melanoma,False,histopathology,../Datasets/images/ISIC_6824249.jpg
+ISIC_1589705,Malignant_Epidermal,high,1.2808077267049678,other,False,histopathology,../Datasets/images/ISIC_1589705.jpg
+ISIC_6246414,Malignant_Epidermal,high,1.245116800814047,benign,False,histopathology,../Datasets/images/ISIC_6246414.jpg
+ISIC_0963883,Malignant_Epidermal,high,1.186530545261602,malignant_nonepidermal,False,histopathology,../Datasets/images/ISIC_0963883.jpg
+ISIC_0013694,Malignant_Epidermal,high,1.1847447160057905,benign,False,histopathology,../Datasets/images/ISIC_0013694.jpg
+ISIC_1428662,Malignant_Epidermal,low,0.0006775718896599,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_1428662.jpg
+ISIC_5348732,Malignant_Epidermal,low,0.0004094458861212,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_5348732.jpg
+ISIC_2231359,Malignant_Epidermal,low,0.000388452384497,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_2231359.jpg
+ISIC_0065816,Malignant_Epidermal,low,0.0001887435954895,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_0065816.jpg
+ISIC_3047459,Malignant_Epidermal,low,0.0001331422136998,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_3047459.jpg
+ISIC_4792052,Malignant_Epidermal,low,3.064706637779337e-06,malignant_epidermal,True,histopathology,../Datasets/images/ISIC_4792052.jpg
+ISIC_6424909,Malignant_NonEpidermal,high,1.5158818049053715,melanoma,False,histopathology,../Datasets/images/ISIC_6424909.jpg
+ISIC_3415291,Malignant_NonEpidermal,high,1.4985212012274869,benign,False,histopathology,../Datasets/images/ISIC_3415291.jpg
+ISIC_6255931,Malignant_NonEpidermal,high,1.2824145706730063,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_6255931.jpg
+ISIC_6180147,Malignant_NonEpidermal,high,1.252287812971596,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_6180147.jpg
+ISIC_0058806,Malignant_NonEpidermal,high,1.2436860587558736,benign,False,histopathology,../Datasets/images/ISIC_0058806.jpg
+ISIC_0014259,Malignant_NonEpidermal,high,1.225102587636823,malignant_epidermal,False,histopathology,../Datasets/images/ISIC_0014259.jpg
+ISIC_0061484,Malignant_NonEpidermal,low,0.0003164339238129,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_0061484.jpg
+ISIC_6416950,Malignant_NonEpidermal,low,0.0002829321055144,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_6416950.jpg
+ISIC_1207350,Malignant_NonEpidermal,low,0.0002637047855788,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_1207350.jpg
+ISIC_4709430,Malignant_NonEpidermal,low,0.0002080544528307,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_4709430.jpg
+ISIC_3472228,Malignant_NonEpidermal,low,0.0001694611105759,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_3472228.jpg
+ISIC_0021324,Malignant_NonEpidermal,low,9.210970304730514e-05,malignant_nonepidermal,True,histopathology,../Datasets/images/ISIC_0021324.jpg
+ISIC_8333431,Melanoma,high,1.4116601520123144,melanoma,True,histopathology,../Datasets/images/ISIC_8333431.jpg
+ISIC_0063102,Melanoma,high,1.2594532947151222,malignant_epidermal,False,histopathology,../Datasets/images/ISIC_0063102.jpg
+ISIC_0058612,Melanoma,high,1.2156986073898213,benign,False,histopathology,../Datasets/images/ISIC_0058612.jpg
+ISIC_0036080,Melanoma,high,1.1699659651213357,melanoma,True,histopathology,../Datasets/images/ISIC_0036080.jpg
+ISIC_0069710,Melanoma,high,1.1046403803782086,malignant_epidermal,False,histopathology,../Datasets/images/ISIC_0069710.jpg
+ISIC_8520875,Melanoma,high,1.0992730068208851,benign,False,histopathology,../Datasets/images/ISIC_8520875.jpg
+ISIC_0067006,Melanoma,low,6.356413693869957e-05,melanoma,True,histopathology,../Datasets/images/ISIC_0067006.jpg
+ISIC_0057261,Melanoma,low,5.273966008153046e-05,melanoma,True,histopathology,../Datasets/images/ISIC_0057261.jpg
+ISIC_0065728,Melanoma,low,4.4672934955432555e-05,melanoma,True,histopathology,../Datasets/images/ISIC_0065728.jpg
+ISIC_0070463,Melanoma,low,4.154033538709123e-05,melanoma,True,histopathology,../Datasets/images/ISIC_0070463.jpg
+ISIC_0059702,Melanoma,low,2.452906125732757e-05,melanoma,True,histopathology,../Datasets/images/ISIC_0059702.jpg
+ISIC_9869190,Melanoma,low,1.543256652316339e-05,melanoma,True,histopathology,../Datasets/images/ISIC_9869190.jpg
+ISIC_0012465,Other,high,1.5521932065353117,other,True,histopathology,../Datasets/images/ISIC_0012465.jpg
+ISIC_0777268,Other,high,1.1748767707306702,malignant_epidermal,False,histopathology,../Datasets/images/ISIC_0777268.jpg
+ISIC_3752905,Other,high,1.1327497848454084,benign,False,histopathology,../Datasets/images/ISIC_3752905.jpg
+ISIC_0011776,Other,high,1.0960744339038302,melanoma,False,histopathology,../Datasets/images/ISIC_0011776.jpg
+ISIC_0015017,Other,high,1.0934565999823176,melanoma,False,histopathology,../Datasets/images/ISIC_0015017.jpg
+ISIC_7803268,Other,high,1.0522357905329016,other,True,histopathology,../Datasets/images/ISIC_7803268.jpg
+ISIC_0010928,Other,low,0.5914034019531367,other,True,histopathology,../Datasets/images/ISIC_0010928.jpg
+ISIC_0476728,Other,low,0.5164025587163437,other,True,histopathology,../Datasets/images/ISIC_0476728.jpg
+ISIC_7428306,Other,low,0.4741809830154371,other,True,histopathology,../Datasets/images/ISIC_7428306.jpg
+ISIC_4190398,Other,low,0.4567407942840442,other,True,histopathology,../Datasets/images/ISIC_4190398.jpg
+ISIC_4237789,Other,low,0.0023584389040168,other,True,single contributor clinical assessment,../Datasets/images/ISIC_4237789.jpg
+ISIC_0011897,Other,low,0.0022000941425921,other,True,histopathology,../Datasets/images/ISIC_0011897.jpg

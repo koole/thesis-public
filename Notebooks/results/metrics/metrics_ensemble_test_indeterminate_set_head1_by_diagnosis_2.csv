@@ -1,0 +1,2 @@
+accuracy,brier_score,cross_entropy,ece,mean_predictive_entropy,mean_expected_entropy,mean_mutual_information,mean_variance,std_predictive_entropy,std_mutual_information,std_variance,auroc_confidence,group_value,group_size
+0.3688051079355427,0.48715563350927804,1.746720590617172,0.44909955633518883,0.39247650822384095,0.3270833359004647,0.0653931723233763,0.023345531485174383,0.2297163954357654,0.07123018705068113,0.029690205771117063,0.3706955159821268,Other,3289

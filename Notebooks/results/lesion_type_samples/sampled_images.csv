@@ -1,0 +1,21 @@
+lesion_type,lesion_type_safe,isic_id,index,diagnosis_1,diagnosis_3,image_path
+Benign,Benign,ISIC_0006154,0,Benign,Nevus,../Datasets/images/ISIC_0006154.jpg
+Benign,Benign,ISIC_3355207,1,Benign,Nevus,../Datasets/images/ISIC_3355207.jpg
+Benign,Benign,ISIC_2686759,2,Benign,Nevus,../Datasets/images/ISIC_2686759.jpg
+Benign,Benign,ISIC_0005450,3,Benign,Nevus,../Datasets/images/ISIC_0005450.jpg
+Melanoma,Melanoma,ISIC_0010426,0,Malignant,Melanoma in situ,../Datasets/images/ISIC_0010426.jpg
+Melanoma,Melanoma,ISIC_0022793,1,Malignant,Melanoma in situ,../Datasets/images/ISIC_0022793.jpg
+Melanoma,Melanoma,ISIC_9972877,2,Malignant,Melanoma Invasive,../Datasets/images/ISIC_9972877.jpg
+Melanoma,Melanoma,ISIC_0069873,3,Malignant,"Melanoma, NOS",../Datasets/images/ISIC_0069873.jpg
+Malignant_Epidermal,Malignant_Epidermal,ISIC_6923883,0,Malignant,"Squamous cell carcinoma, NOS",../Datasets/images/ISIC_6923883.jpg
+Malignant_Epidermal,Malignant_Epidermal,ISIC_0070421,1,Malignant,"Squamous cell carcinoma, NOS",../Datasets/images/ISIC_0070421.jpg
+Malignant_Epidermal,Malignant_Epidermal,ISIC_3420711,2,Malignant,"Squamous cell carcinoma, Invasive",../Datasets/images/ISIC_3420711.jpg
+Malignant_Epidermal,Malignant_Epidermal,ISIC_3057675,3,Malignant,"Squamous cell carcinoma, Invasive",../Datasets/images/ISIC_3057675.jpg
+Malignant_NonEpidermal,Malignant_NonEpidermal,ISIC_6242853,0,Malignant,Basal cell carcinoma,../Datasets/images/ISIC_6242853.jpg
+Malignant_NonEpidermal,Malignant_NonEpidermal,ISIC_6181707,1,Malignant,Basal cell carcinoma,../Datasets/images/ISIC_6181707.jpg
+Malignant_NonEpidermal,Malignant_NonEpidermal,ISIC_6573189,2,Malignant,Basal cell carcinoma,../Datasets/images/ISIC_6573189.jpg
+Malignant_NonEpidermal,Malignant_NonEpidermal,ISIC_0514391,3,Malignant,Basal cell carcinoma,../Datasets/images/ISIC_0514391.jpg
+Other,Other,ISIC_0014560,0,Benign,Verruca,../Datasets/images/ISIC_0014560.jpg
+Other,Other,ISIC_2721277,1,Benign,,../Datasets/images/ISIC_2721277.jpg
+Other,Other,ISIC_0012631,2,Benign,Lentigo NOS,../Datasets/images/ISIC_0012631.jpg
+Other,Other,ISIC_2984850,3,Benign,,../Datasets/images/ISIC_2984850.jpg

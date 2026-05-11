@@ -1,0 +1,4 @@
+bin,mean_entropy,malignancy_rate
+Light,0.283,0.343
+Medium,0.212,0.217
+Dark,0.041,0.015

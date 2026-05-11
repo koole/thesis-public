@@ -1,0 +1,4 @@
+bin,n_benign,n_malignant,benign_pct,malignant_pct
+Light,2813,1469,65.7,34.3
+Medium,1078,299,78.3,21.7
+Dark,257,4,98.5,1.5

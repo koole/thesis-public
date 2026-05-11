@@ -1,0 +1,13 @@
+image_type,isic_id,index,image_path
+dermoscopic,ISIC_4410428,0,../Datasets/images/ISIC_4410428.jpg
+dermoscopic,ISIC_0058636,1,../Datasets/images/ISIC_0058636.jpg
+dermoscopic,ISIC_2564023,2,../Datasets/images/ISIC_2564023.jpg
+dermoscopic,ISIC_0023618,3,../Datasets/images/ISIC_0023618.jpg
+clinical: close-up,ISIC_7452602,0,../Datasets/images/ISIC_7452602.jpg
+clinical: close-up,ISIC_7168995,1,../Datasets/images/ISIC_7168995.jpg
+clinical: close-up,ISIC_4042084,2,../Datasets/images/ISIC_4042084.jpg
+clinical: close-up,ISIC_1657968,3,../Datasets/images/ISIC_1657968.jpg
+TBP tile: close-up,ISIC_5076575,0,../Datasets/images/ISIC_5076575.jpg
+TBP tile: close-up,ISIC_1855712,1,../Datasets/images/ISIC_1855712.jpg
+TBP tile: close-up,ISIC_3894462,2,../Datasets/images/ISIC_3894462.jpg
+TBP tile: close-up,ISIC_9733547,3,../Datasets/images/ISIC_9733547.jpg

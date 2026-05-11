@@ -1,0 +1,31 @@
+diagnosis_confirm_type,diagnosis_confirm_type_safe,isic_id,index,diagnosis_1,diagnosis_2,image_path
+histopathology,histopathology,ISIC_2538516,0,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_2538516.jpg
+histopathology,histopathology,ISIC_0068616,1,Malignant,Melanoma,../Datasets/images/ISIC_0068616.jpg
+histopathology,histopathology,ISIC_4358907,2,Benign,Benign,../Datasets/images/ISIC_4358907.jpg
+histopathology,histopathology,ISIC_8973952,3,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_8973952.jpg
+histopathology,histopathology,ISIC_9445988,4,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_9445988.jpg
+histopathology,histopathology,ISIC_0010653,5,Malignant,Melanoma,../Datasets/images/ISIC_0010653.jpg
+single image expert consensus,single_image_expert_consensus,ISIC_2769811,0,Benign,Benign,../Datasets/images/ISIC_2769811.jpg
+single image expert consensus,single_image_expert_consensus,ISIC_0008786,1,Benign,Benign,../Datasets/images/ISIC_0008786.jpg
+single image expert consensus,single_image_expert_consensus,ISIC_0003315,2,Benign,Benign,../Datasets/images/ISIC_0003315.jpg
+single image expert consensus,single_image_expert_consensus,ISIC_0005071,3,Benign,Benign,../Datasets/images/ISIC_0005071.jpg
+single image expert consensus,single_image_expert_consensus,ISIC_0030909,4,Benign,Benign,../Datasets/images/ISIC_0030909.jpg
+single image expert consensus,single_image_expert_consensus,ISIC_0003104,5,Benign,Benign,../Datasets/images/ISIC_0003104.jpg
+serial imaging showing no change,serial_imaging_showing_no_change,ISIC_4690030,0,Benign,Benign,../Datasets/images/ISIC_4690030.jpg
+serial imaging showing no change,serial_imaging_showing_no_change,ISIC_5051632,1,Benign,Benign,../Datasets/images/ISIC_5051632.jpg
+serial imaging showing no change,serial_imaging_showing_no_change,ISIC_0028597,2,Benign,Benign,../Datasets/images/ISIC_0028597.jpg
+serial imaging showing no change,serial_imaging_showing_no_change,ISIC_0598769,3,Benign,Benign,../Datasets/images/ISIC_0598769.jpg
+serial imaging showing no change,serial_imaging_showing_no_change,ISIC_2653824,4,Benign,Benign,../Datasets/images/ISIC_2653824.jpg
+serial imaging showing no change,serial_imaging_showing_no_change,ISIC_6474947,5,Benign,Benign,../Datasets/images/ISIC_6474947.jpg
+single contributor clinical assessment,single_contributor_clinical_assessment,ISIC_3162480,0,Benign,Benign,../Datasets/images/ISIC_3162480.jpg
+single contributor clinical assessment,single_contributor_clinical_assessment,ISIC_3365009,1,Benign,Benign,../Datasets/images/ISIC_3365009.jpg
+single contributor clinical assessment,single_contributor_clinical_assessment,ISIC_5350117,2,Benign,Benign,../Datasets/images/ISIC_5350117.jpg
+single contributor clinical assessment,single_contributor_clinical_assessment,ISIC_8904673,3,Benign,Benign,../Datasets/images/ISIC_8904673.jpg
+single contributor clinical assessment,single_contributor_clinical_assessment,ISIC_0576358,4,Benign,Benign,../Datasets/images/ISIC_0576358.jpg
+single contributor clinical assessment,single_contributor_clinical_assessment,ISIC_4437414,5,Benign,Benign,../Datasets/images/ISIC_4437414.jpg
+confocal microscopy with consensus dermoscopy,confocal_microscopy_with_consensus_dermoscopy,ISIC_0065309,0,Benign,Benign,../Datasets/images/ISIC_0065309.jpg
+confocal microscopy with consensus dermoscopy,confocal_microscopy_with_consensus_dermoscopy,ISIC_0060299,1,Benign,Benign,../Datasets/images/ISIC_0060299.jpg
+confocal microscopy with consensus dermoscopy,confocal_microscopy_with_consensus_dermoscopy,ISIC_0061729,2,Benign,Benign,../Datasets/images/ISIC_0061729.jpg
+confocal microscopy with consensus dermoscopy,confocal_microscopy_with_consensus_dermoscopy,ISIC_0034561,3,Benign,Benign,../Datasets/images/ISIC_0034561.jpg
+confocal microscopy with consensus dermoscopy,confocal_microscopy_with_consensus_dermoscopy,ISIC_0063379,4,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0063379.jpg
+confocal microscopy with consensus dermoscopy,confocal_microscopy_with_consensus_dermoscopy,ISIC_0071823,5,Benign,Benign,../Datasets/images/ISIC_0071823.jpg

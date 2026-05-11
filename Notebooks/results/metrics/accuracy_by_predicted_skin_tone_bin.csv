@@ -1,0 +1,4 @@
+bin,n_benign,n_malignant,specificity,sensitivity,balanced_accuracy
+Light,2813,1469,82.7,89.3,86.0
+Medium,1078,299,91.9,83.6,87.8
+Dark,257,4,99.6,100.0,99.8

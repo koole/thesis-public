@@ -1,0 +1,4 @@
+bin,labeled_count,labeled_entropy,full_count,full_entropy,pct_change
+Light,376,0.267,4282,0.283,5.7
+Medium,276,0.162,1377,0.212,31.0
+Dark,241,0.029,261,0.041,38.4

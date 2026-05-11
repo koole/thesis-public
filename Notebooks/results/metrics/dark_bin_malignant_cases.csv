@@ -1,0 +1,5 @@
+case,isic_id,entropy_h1,head1_pred,correct,diagnosis_2
+1,ISIC_1320438,0.011,Malignant,True,Melanoma
+2,ISIC_9869190,0.036,Malignant,True,Melanoma
+3,ISIC_0053947,0.189,Malignant,True,Melanoma
+4,ISIC_2563948,0.611,Malignant,True,Melanoma

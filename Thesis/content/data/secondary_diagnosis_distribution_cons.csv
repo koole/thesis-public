@@ -1,0 +1,6 @@
+label,count
+Benign,61501
+Malignant_NonEpidermal,12174
+Melanoma,11125
+Other,3964
+Malignant_Epidermal,3328

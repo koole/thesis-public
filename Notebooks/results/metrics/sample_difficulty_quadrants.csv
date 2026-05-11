@@ -1,0 +1,41 @@
+method,head,quadrant,count,fraction
+dropconnect,head1,Easy,2944,0.4972972972972973
+dropconnect,head1,Appropriate caution,2543,0.4295608108108108
+dropconnect,head1,Appropriate uncertainty,417,0.07043918918918919
+dropconnect,head1,Dangerous overconfidence,16,0.002702702702702703
+dropconnect,head2,Easy,2933,0.49543918918918917
+dropconnect,head2,Appropriate caution,2409,0.40692567567567567
+dropconnect,head2,Appropriate uncertainty,551,0.09307432432432433
+dropconnect,head2,Dangerous overconfidence,27,0.004560810810810811
+dropout,head1,Easy,2943,0.49712837837837837
+dropout,head1,Appropriate caution,2547,0.4302364864864865
+dropout,head1,Appropriate uncertainty,413,0.06976351351351351
+dropout,head1,Dangerous overconfidence,17,0.0028716216216216218
+dropout,head2,Easy,2932,0.49527027027027026
+dropout,head2,Appropriate caution,2405,0.40625
+dropout,head2,Appropriate uncertainty,555,0.09375
+dropout,head2,Dangerous overconfidence,28,0.00472972972972973
+duq,head1,Easy,2940,0.4966216216216216
+duq,head1,Appropriate caution,2443,0.41266891891891894
+duq,head1,Appropriate uncertainty,517,0.08733108108108108
+duq,head1,Dangerous overconfidence,20,0.0033783783783783786
+duq,head2,Easy,2914,0.4922297297297297
+duq,head2,Appropriate caution,2274,0.3841216216216216
+duq,head2,Appropriate uncertainty,686,0.11587837837837837
+duq,head2,Dangerous overconfidence,46,0.007770270270270271
+ensemble,head1,Easy,2954,0.49898648648648647
+ensemble,head1,Appropriate caution,2525,0.4265202702702703
+ensemble,head1,Appropriate uncertainty,435,0.07347972972972973
+ensemble,head1,Dangerous overconfidence,6,0.0010135135135135136
+ensemble,head2,Easy,2947,0.49780405405405403
+ensemble,head2,Appropriate caution,2302,0.38885135135135135
+ensemble,head2,Appropriate uncertainty,658,0.11114864864864865
+ensemble,head2,Dangerous overconfidence,13,0.002195945945945946
+flipout,head1,Easy,2903,0.4903716216216216
+flipout,head1,Appropriate caution,2235,0.37753378378378377
+flipout,head1,Appropriate uncertainty,725,0.12246621621621621
+flipout,head1,Dangerous overconfidence,57,0.009628378378378379
+flipout,head2,Easy,2820,0.47635135135135137
+flipout,head2,Appropriate caution,1695,0.28631756756756754
+flipout,head2,Appropriate uncertainty,1265,0.21368243243243243
+flipout,head2,Dangerous overconfidence,140,0.02364864864864865

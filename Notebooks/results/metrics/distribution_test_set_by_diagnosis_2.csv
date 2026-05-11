@@ -1,0 +1,6 @@
+group_value,count,percentage
+Benign,4112,69.45945945945947
+Malignant_Epidermal,251,4.239864864864865
+Malignant_NonEpidermal,835,14.104729729729728
+Melanoma,684,11.554054054054054
+Other,38,0.6418918918918919

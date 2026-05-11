@@ -1,0 +1,79 @@
+attribution,attribution_safe,isic_id,index,diagnosis_1,diagnosis_2,image_path
+MILK Study,MILK_Study,ISIC_4204876,0,Benign,Benign,../Datasets/images/ISIC_4204876.jpg
+MILK Study,MILK_Study,ISIC_6076049,1,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_6076049.jpg
+MILK Study,MILK_Study,ISIC_2183361,2,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_2183361.jpg
+MILK Study,MILK_Study,ISIC_4411067,3,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_4411067.jpg
+MILK Study,MILK_Study,ISIC_2393561,4,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_2393561.jpg
+MILK Study,MILK_Study,ISIC_0031420,5,Benign,Benign,../Datasets/images/ISIC_0031420.jpg
+Hospital Clínic Barcelona,Hospital_Clínic_Barcelona,ISIC_0062062,0,Benign,Benign,../Datasets/images/ISIC_0062062.jpg
+Hospital Clínic Barcelona,Hospital_Clínic_Barcelona,ISIC_0055483,1,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0055483.jpg
+Hospital Clínic Barcelona,Hospital_Clínic_Barcelona,ISIC_0058745,2,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0058745.jpg
+Hospital Clínic Barcelona,Hospital_Clínic_Barcelona,ISIC_0062014,3,Benign,Benign,../Datasets/images/ISIC_0062014.jpg
+Hospital Clínic Barcelona,Hospital_Clínic_Barcelona,ISIC_0058806,4,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0058806.jpg
+Hospital Clínic Barcelona,Hospital_Clínic_Barcelona,ISIC_0071532,5,Malignant,Melanoma,../Datasets/images/ISIC_0071532.jpg
+Anonymous,Anonymous,ISIC_0014297,0,Benign,Benign,../Datasets/images/ISIC_0014297.jpg
+Anonymous,Anonymous,ISIC_0014791,1,Benign,Benign,../Datasets/images/ISIC_0014791.jpg
+Anonymous,Anonymous,ISIC_0013010,2,Benign,Benign,../Datasets/images/ISIC_0013010.jpg
+Anonymous,Anonymous,ISIC_0022314,3,Malignant,Melanoma,../Datasets/images/ISIC_0022314.jpg
+Anonymous,Anonymous,ISIC_0022811,4,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0022811.jpg
+Anonymous,Anonymous,ISIC_0022360,5,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0022360.jpg
+Memorial Sloan Kettering,Memorial_Sloan_Kettering,ISIC_7577608,0,Benign,Benign,../Datasets/images/ISIC_7577608.jpg
+Memorial Sloan Kettering,Memorial_Sloan_Kettering,ISIC_1842163,1,Benign,Benign,../Datasets/images/ISIC_1842163.jpg
+Memorial Sloan Kettering,Memorial_Sloan_Kettering,ISIC_9793133,2,Benign,Benign,../Datasets/images/ISIC_9793133.jpg
+Memorial Sloan Kettering,Memorial_Sloan_Kettering,ISIC_9255171,3,Benign,Benign,../Datasets/images/ISIC_9255171.jpg
+Memorial Sloan Kettering,Memorial_Sloan_Kettering,ISIC_3136991,4,Benign,Benign,../Datasets/images/ISIC_3136991.jpg
+Memorial Sloan Kettering,Memorial_Sloan_Kettering,ISIC_6166448,5,Benign,Benign,../Datasets/images/ISIC_6166448.jpg
+Imperial College London,Imperial_College_London,ISIC_1366039,0,Benign,Benign,../Datasets/images/ISIC_1366039.jpg
+Imperial College London,Imperial_College_London,ISIC_6906024,1,Benign,Benign,../Datasets/images/ISIC_6906024.jpg
+Imperial College London,Imperial_College_London,ISIC_5037531,2,Benign,Benign,../Datasets/images/ISIC_5037531.jpg
+Imperial College London,Imperial_College_London,ISIC_8332310,3,Benign,Benign,../Datasets/images/ISIC_8332310.jpg
+Imperial College London,Imperial_College_London,ISIC_1365953,4,Benign,Benign,../Datasets/images/ISIC_1365953.jpg
+Imperial College London,Imperial_College_London,ISIC_7686448,5,Benign,Benign,../Datasets/images/ISIC_7686448.jpg
+Medical University of Vienna,Medical_University_of_Vienna,ISIC_8957088,0,Benign,Benign,../Datasets/images/ISIC_8957088.jpg
+Medical University of Vienna,Medical_University_of_Vienna,ISIC_3820602,1,Benign,Benign,../Datasets/images/ISIC_3820602.jpg
+Medical University of Vienna,Medical_University_of_Vienna,ISIC_0020468,2,Malignant,Melanoma,../Datasets/images/ISIC_0020468.jpg
+Medical University of Vienna,Medical_University_of_Vienna,ISIC_7671776,3,Benign,Benign,../Datasets/images/ISIC_7671776.jpg
+Medical University of Vienna,Medical_University_of_Vienna,ISIC_4018952,4,Benign,Benign,../Datasets/images/ISIC_4018952.jpg
+Medical University of Vienna,Medical_University_of_Vienna,ISIC_0018339,5,Malignant,Melanoma,../Datasets/images/ISIC_0018339.jpg
+Federal University of Espírito Santo,Federal_University_of_Espírito_Santo,ISIC_5009921,0,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_5009921.jpg
+Federal University of Espírito Santo,Federal_University_of_Espírito_Santo,ISIC_5373480,1,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_5373480.jpg
+Federal University of Espírito Santo,Federal_University_of_Espírito_Santo,ISIC_2549884,2,Malignant,Malignant_Epidermal,../Datasets/images/ISIC_2549884.jpg
+Federal University of Espírito Santo,Federal_University_of_Espírito_Santo,ISIC_6492984,3,Malignant,Malignant_Epidermal,../Datasets/images/ISIC_6492984.jpg
+Federal University of Espírito Santo,Federal_University_of_Espírito_Santo,ISIC_5666581,4,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_5666581.jpg
+Federal University of Espírito Santo,Federal_University_of_Espírito_Santo,ISIC_0634284,5,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_0634284.jpg
+Hospital Italiano Buenos Aires,Hospital_Italiano_Buenos_Aires,ISIC_4767060,0,Benign,Benign,../Datasets/images/ISIC_4767060.jpg
+Hospital Italiano Buenos Aires,Hospital_Italiano_Buenos_Aires,ISIC_9214111,1,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_9214111.jpg
+Hospital Italiano Buenos Aires,Hospital_Italiano_Buenos_Aires,ISIC_5587663,2,Benign,Benign,../Datasets/images/ISIC_5587663.jpg
+Hospital Italiano Buenos Aires,Hospital_Italiano_Buenos_Aires,ISIC_7586913,3,Benign,Benign,../Datasets/images/ISIC_7586913.jpg
+Hospital Italiano Buenos Aires,Hospital_Italiano_Buenos_Aires,ISIC_6725236,4,Benign,Benign,../Datasets/images/ISIC_6725236.jpg
+Hospital Italiano Buenos Aires,Hospital_Italiano_Buenos_Aires,ISIC_4331030,5,Malignant,Malignant_NonEpidermal,../Datasets/images/ISIC_4331030.jpg
+Andreas Syggros Hospital Athens,Andreas_Syggros_Hospital_Athens,ISIC_5733991,0,Benign,Benign,../Datasets/images/ISIC_5733991.jpg
+Andreas Syggros Hospital Athens,Andreas_Syggros_Hospital_Athens,ISIC_1505882,1,Malignant,Melanoma,../Datasets/images/ISIC_1505882.jpg
+Andreas Syggros Hospital Athens,Andreas_Syggros_Hospital_Athens,ISIC_5693635,2,Benign,Benign,../Datasets/images/ISIC_5693635.jpg
+Andreas Syggros Hospital Athens,Andreas_Syggros_Hospital_Athens,ISIC_9495534,3,Malignant,Melanoma,../Datasets/images/ISIC_9495534.jpg
+Andreas Syggros Hospital Athens,Andreas_Syggros_Hospital_Athens,ISIC_7775286,4,Benign,Benign,../Datasets/images/ISIC_7775286.jpg
+Andreas Syggros Hospital Athens,Andreas_Syggros_Hospital_Athens,ISIC_4925317,5,Benign,Benign,../Datasets/images/ISIC_4925317.jpg
+Royal Prince Alfred Hospital Sydney,Royal_Prince_Alfred_Hospital_Sydney,ISIC_9543045,0,Malignant,Melanoma,../Datasets/images/ISIC_9543045.jpg
+Royal Prince Alfred Hospital Sydney,Royal_Prince_Alfred_Hospital_Sydney,ISIC_1049431,1,Benign,Benign,../Datasets/images/ISIC_1049431.jpg
+Royal Prince Alfred Hospital Sydney,Royal_Prince_Alfred_Hospital_Sydney,ISIC_6965881,2,Malignant,Melanoma,../Datasets/images/ISIC_6965881.jpg
+Royal Prince Alfred Hospital Sydney,Royal_Prince_Alfred_Hospital_Sydney,ISIC_6307097,3,Malignant,Melanoma,../Datasets/images/ISIC_6307097.jpg
+Royal Prince Alfred Hospital Sydney,Royal_Prince_Alfred_Hospital_Sydney,ISIC_1048895,4,Benign,Benign,../Datasets/images/ISIC_1048895.jpg
+Royal Prince Alfred Hospital Sydney,Royal_Prince_Alfred_Hospital_Sydney,ISIC_8184620,5,Benign,Benign,../Datasets/images/ISIC_8184620.jpg
+International Dermoscopy Society,International_Dermoscopy_Society,ISIC_8349692,0,Benign,Benign,../Datasets/images/ISIC_8349692.jpg
+International Dermoscopy Society,International_Dermoscopy_Society,ISIC_6450970,1,Benign,Benign,../Datasets/images/ISIC_6450970.jpg
+International Dermoscopy Society,International_Dermoscopy_Society,ISIC_9687039,2,Benign,Benign,../Datasets/images/ISIC_9687039.jpg
+International Dermoscopy Society,International_Dermoscopy_Society,ISIC_8954318,3,Benign,Benign,../Datasets/images/ISIC_8954318.jpg
+International Dermoscopy Society,International_Dermoscopy_Society,ISIC_4926298,4,Benign,Benign,../Datasets/images/ISIC_4926298.jpg
+International Dermoscopy Society,International_Dermoscopy_Society,ISIC_4701687,5,Benign,Benign,../Datasets/images/ISIC_4701687.jpg
+University Hospital Basel,University_Hospital_Basel,ISIC_5576462,0,Benign,Benign,../Datasets/images/ISIC_5576462.jpg
+University Hospital Basel,University_Hospital_Basel,ISIC_1989711,1,Benign,Benign,../Datasets/images/ISIC_1989711.jpg
+University Hospital Basel,University_Hospital_Basel,ISIC_1505481,2,Benign,Benign,../Datasets/images/ISIC_1505481.jpg
+University Hospital Basel,University_Hospital_Basel,ISIC_1862120,3,Benign,Benign,../Datasets/images/ISIC_1862120.jpg
+University Hospital Basel,University_Hospital_Basel,ISIC_8092780,4,Benign,Benign,../Datasets/images/ISIC_8092780.jpg
+University Hospital Basel,University_Hospital_Basel,ISIC_1060007,5,Benign,Benign,../Datasets/images/ISIC_1060007.jpg
+University of Queensland,University_of_Queensland,ISIC_0668739,0,Benign,Benign,../Datasets/images/ISIC_0668739.jpg
+University of Queensland,University_of_Queensland,ISIC_3288933,1,Malignant,Melanoma,../Datasets/images/ISIC_3288933.jpg
+University of Queensland,University_of_Queensland,ISIC_7605910,2,Benign,Benign,../Datasets/images/ISIC_7605910.jpg
+University of Queensland,University_of_Queensland,ISIC_2631302,3,Benign,Benign,../Datasets/images/ISIC_2631302.jpg
+University of Queensland,University_of_Queensland,ISIC_6246414,4,Malignant,Malignant_Epidermal,../Datasets/images/ISIC_6246414.jpg
+University of Queensland,University_of_Queensland,ISIC_2939230,5,Benign,Benign,../Datasets/images/ISIC_2939230.jpg

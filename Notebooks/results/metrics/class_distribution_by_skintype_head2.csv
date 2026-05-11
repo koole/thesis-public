@@ -1,0 +1,7 @@
+fitzpatrick_skin_type,Benign,Malignant_Epidermal,Malignant_NonEpidermal,Melanoma,Other
+I,96,8,21,10,1
+II,120,30,61,40,4
+III,113,11,31,4,1
+IV,113,1,4,1,0
+V,111,2,1,0,0
+VI,109,0,0,0,0

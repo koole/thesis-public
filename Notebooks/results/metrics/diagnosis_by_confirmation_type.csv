@@ -1,0 +1,6 @@
+group_value,n,n_malignant,n_benign,pct_malignant,pct_benign
+histopathology,2989,1675,1314,56.03880896620943,43.96119103379056
+single image expert consensus,767,0,767,0.0,100.0
+serial imaging showing no change,566,0,566,0.0,100.0
+single contributor clinical assessment,524,0,524,0.0,100.0
+confocal microscopy with consensus dermoscopy,82,14,68,17.073170731707318,82.92682926829268
