@@ -41,10 +41,11 @@ Typst will download the following packages on first compile (internet required):
 - `@preview/oxifmt:1.0.0`
 - `@preview/cetz:0.4.0`
 
-`lilaq` is intended to be embedded under `Thesis/lilaq/`, but the
-public-repo embed is broken because lilaq was added as a git subrepo and
-its contents are not tracked here. To compile, replace `Thesis/lilaq/`
-with a checkout of the latest [lilaq](https://github.com/lilaq-project/lilaq)
-release. The violin plots used throughout this thesis were implemented
-as part of this work and have since been contributed back upstream, so
-the latest lilaq already includes them.
+[lilaq](https://github.com/lilaq-project/lilaq) is intended to be
+embedded under `Thesis/lilaq/`, but the public-repo embed is broken
+because lilaq was added as a git subrepo and its contents are not
+tracked here. To compile, replace `Thesis/lilaq/` with a checkout of
+the latest lilaq release. The violin plots used throughout this thesis
+were implemented as part of this work and have since been contributed
+back upstream ([PR #144](https://github.com/lilaq-project/lilaq/pull/144)),
+so the latest lilaq already includes them.
