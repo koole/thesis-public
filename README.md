@@ -17,8 +17,8 @@ Groningen.
 | ![Page 1](preview/page-001.png) | ![Page 10](preview/page-010.png) |
 | **Page 21** | **Page 32** |
 | ![Page 21](preview/page-021.png) | ![Page 32](preview/page-032.png) |
-| **Page 49** | **Page 67** |
-| ![Page 49](preview/page-049.png) | ![Page 67](preview/page-067.png) |
+| **Page 49** | **Page 57** |
+| ![Page 49](preview/page-049.png) | ![Page 57](preview/page-057.png) |
 
 ## Compile
 
