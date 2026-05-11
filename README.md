@@ -2,10 +2,11 @@
 By Leon Koole, University of Groningen
 
 ## Quick links
-
-- [`thesis_compressed.pdf`](thesis_compressed.pdf) — final compiled PDF
-- [`Thesis/thesis.typ`](Thesis/thesis.typ) — main thesis source
-- [`Thesis/template.typ`](Thesis/template.typ) — document template
+| File | Description |
+| :- | :- |
+| [`thesis_compressed.pdf`](thesis_compressed.pdf) | final compiled PDF |
+| [`Thesis/thesis.typ`](Thesis/thesis.typ) | main thesis source |
+| [`Thesis/template.typ`](Thesis/template.typ) | document template |
 
 ## Preview
 
